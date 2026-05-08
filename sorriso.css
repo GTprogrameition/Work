@@ -1,0 +1,57 @@
+body {
+  margin: none;
+}
+hr {
+  border-color: black;
+}
+.autor {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h4 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  text-justify: hight;
+}
+.titulo {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  text-orientation: center;
+}
+.textcapa {
+  font-family: Arial, sans-serif;
+  margin: 200px;
+  width: 50%;
+}
+h5 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h6 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.sumario {
+  font-family: Arial, sans-serif;
+  margin: 15px;
+}
+.line {
+  flex-grow: 1;
+  border-bottom: 3px dotted black;
+}
+li {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.pesqui {
+  font-family: Arial, sans-serif;
+  magin: 10px;
+}
+.pesquisas {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
